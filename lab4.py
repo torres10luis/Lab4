@@ -8,3 +8,8 @@ if the user could not guess the correct answer within the max_tries, then print 
 
 """ 
 print("testing")
+
+"""
+main 
+    question = "what is the capital california"
+"""
